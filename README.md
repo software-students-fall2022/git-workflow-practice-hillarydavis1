@@ -1,2 +1,6 @@
 # Git Practic
 One of the reasons I decided to pursue a degree in computer science was because of my interest in making an environmental impact through computational methods, and while I have strayed from that recently, I found this article interesting.[How to Fight Climate Change as a Software Engineer](https://www.infoq.com/articles/fight-climate-change-software-engineer/) speaks on the ways in which software engineers can minimize their impact on climate change. It lists specific ways that would help in lowering the environmental impact, stating that we should delete workloads that are no longer on use, run workloads only when necessary, move workloads to a low carbon location and time, and use fewer resources for your workload. It is better that these things are done sooner rather than later, due to the amount of time we have left in making positive green choices before the point of no return.
+
+
+# Comments from Manny Soto Ruiz
+I found this article interesting since I never really thought about how our software can have a negative impact on climate change. For example, we can help the climate by having our software use less energy while running. In general, the field of software engineering needs a change in helping the environment so we need to decarbonize our software.
